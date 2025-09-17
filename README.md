@@ -21,10 +21,6 @@
   <img src="https://skillicons.dev/icons?i=java,kotlin,gradle,idea,git,github,linux,windows,regex&perline=10" />
 </p>
 
-- **Minecraft stack:** Fabric, Loom, Mixins (+ MixinExtras), Yarn mappings, Meteor API
-- **Build & perf:** Gradle (8.x), caching, wrapper bootstrapping, CI basics
-- **OS:** Windows + Linux (NVIDIA/GLX wrangling as needed)
-
 ---
 
 
