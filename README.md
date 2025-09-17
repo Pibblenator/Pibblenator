@@ -12,7 +12,8 @@
 </p>
 
 ### ⚡ What I’m building
-- **Imphax** — a Fabric 1.21.x utility client focused on 2b2t vibes (modules like KillAura, ESP, Nametags, AutoCrystal, Surround, SelfTrap; silent rotations/swap; Grim-friendly tweaks).
+- **ZyZaMod** — A Meteor Client addon inspired by jefff mod
+- Will be release soon!
 
 ---
 
