@@ -27,22 +27,6 @@
 
 ---
 
-### 🧪 Featured projects
-<!-- Swap repo names/links to yours. If you don’t have these yet, keep them as TODOs or hide this section. -->
-- 🔮 **Imphax (Fabric 1.21.x)** – Utility client targeting 2b2t/Grim
-- 🪓 **Stash Hunt Addon (Meteor)** – SpeedMine/Filler/KeyPearl + render candy  
-- 🎛 **UI-Anim** – Clean inventory/HUD animation mod  
 
-<details>
-<summary>Quick peek at goals & roadmap</summary>
-
-- [x] Imphax module manager + GUI with category toggles and keybinds  
-- [x] AutoCrystal: place/boom logic, min-dmg, anti-friend, rotation handling  
-- [ ] Grim-friendly ticksync & movement heuristics  
-- [ ] Surround/SelfTrap merge with silent swap & rotation desync fixes  
-- [ ] Clean README + buildable templates for new mods
-</details>
-
----
 
 
