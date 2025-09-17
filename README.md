@@ -12,8 +12,7 @@
 </p>
 
 ### ⚡ What I’m building
-- **ZyZaMod** — A Meteor Client addon inspired by jefff mod
-- Will be release soon!
+- **ZyZaMod** — A Meteor Client addon inspired by jefff mod will be released soon!
 
 ---
 
