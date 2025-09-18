@@ -18,7 +18,7 @@
 
 ### 🧰 Tech I touch
 <p>
-  <img src="https://skillicons.dev/icons?i=java,kotlin,gradle,idea,git,github,linux,windows,regex&perline=10" />
+  <img src="https://skillicons.dev/icons?i=java,idea,linux,windows,regex&perline=10" />
 </p>
 
 ---
