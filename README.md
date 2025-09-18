@@ -6,7 +6,7 @@
    3) Tweak featured repo names and links.
 -->
 
-<h1 align="center">👋 Hey, I'm Pibblenator!</h1>
+<h1 align="center">👋 Hey, I'm ZyZaBruh!</h1>
 <p align="center">
   <b>Minecraft modding • Fabric • Meteor • How do i bypass grim :( • Java enjoyer</b>
 </p>
