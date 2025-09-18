@@ -8,7 +8,7 @@
 
 <h1 align="center">👋 Hey, I'm Pibblenator!</h1>
 <p align="center">
-  <b>Minecraft modding • Fabric • Meteor • Grim bypass tinkerer • Java/Kotlin enjoyer</b>
+  <b>Minecraft modding • Fabric • Meteor • How do i bypass grim :( • Java enjoyer</b>
 </p>
 
 ### ⚡ What I’m building
