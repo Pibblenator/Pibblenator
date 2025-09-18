@@ -18,7 +18,7 @@
 
 ### 🧰 Tech I touch
 <p>
-  <img src="https://skillicons.dev/icons?i=java,idea,linux,windows,lua,robloxstudio&perline=10" />
+  <img src="https://skillicons.dev/icons?i=java,robloxstudio,lua,linux,windows&perline=10" />
 </p>
 
 ---
