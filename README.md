@@ -18,7 +18,7 @@
 
 ### 🧰 Tech I touch
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,idea,linux,windows" />
+  <img src="https://skillicons.dev/icons?i=java,python,luau,idea,linux,windows" />
 </p>
 
 ---
