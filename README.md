@@ -8,7 +8,7 @@
 
 <h1 align="center">👋 Hey, I'm ZyZaBruh!</h1>
 <p align="center">
-  <b>Minecraft modding • Fabric • Meteor • How do i bypass grim :( • Java enjoyer</b>
+   
 </p>
 
 ### ⚡ What I’m building
