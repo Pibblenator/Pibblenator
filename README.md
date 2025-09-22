@@ -13,6 +13,7 @@
 
 ### ⚡ What I’m building
 - **ZyZaMod** — A Meteor Client addon inspired by jefff mod will be released soon!
+- **JewLine** - My own client that some randoms skidded and called shoreline >:(
 
 ---
 
