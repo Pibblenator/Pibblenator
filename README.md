@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im working on ZyZaMod a meteor client addon made for use on 2b2t!
+Im a 2b2t player. I love spiraling 67
 
 
 # 💻 Tech Stack:
